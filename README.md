@@ -1,6 +1,6 @@
 
 ### 🚀 About Me
-Hi there, my name is Asim, and I am a QA engineer with 8 years of experience. This repository is my attempt at providing as much knwoledge as possible with as little text as possible by explaining QA processes with some real-life examples.
+Hi there, my name is Asim, and I am a QA engineer with 8 years of experience. This repository is my attempt at providing as much knowledge as possible with as little text as possible by explaining QA processes with some real-life examples.
 
 
 ###  Introduction
